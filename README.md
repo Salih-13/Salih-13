@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm [Your Name], an engineering student passionate about web development. Recently, I completed an exciting project where I built a website using React, integrated seamlessly with Firebase for a robust and dynamic experience. Currently, I'm diving into the world of e-commerce, developing a store from scratch, honing my skills in both front-end and back-end technologies.<br><br>On my GitHub, you'll find a showcase of my journey as a web developer, featuring projects that highlight my growth, creativity, and technical expertise. Let's build something amazing together!
+I'm Mohammad Salih V S, a computer science engineering student passionate about web development. Recently, I completed an exciting project where I built a website using React, integrated seamlessly with Firebase for a robust and dynamic experience. Currently, I'm diving into the world of e-commerce, developing a store from scratch, honing my skills in both front-end and back-end technologies.<br><br>On my GitHub, you'll find a showcase of my journey as a web developer, featuring projects that highlight my growth, creativity, and technical expertise. Let's build something amazing together!
 
 
 ## 🌐 Socials:
